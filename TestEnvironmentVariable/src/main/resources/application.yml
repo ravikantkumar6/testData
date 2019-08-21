@@ -1,0 +1,4 @@
+test:
+  env: ${CATALINA_HOME}
+server:
+  port: 9999
